@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dahtee
-- 👀 I’m interested in web dev
-- 🌱 I’m currently learning html , css 
+- 👀 I’m interested in software engineering 
+- 🌱 I’m currently learning with ALX  
 - 💞️ I’m looking to collaborate on designing responsive web pages 
 - 📫 How to reach me datibosa@gmail.com
 
